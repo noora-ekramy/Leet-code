@@ -18,7 +18,6 @@ In this repository, you'll find my solutions to LeetCode problems. Each problem 
 
 I've categorized the problems to help you find specific solutions easily:
 
-- [Big O](/big-o)
 - [Array Problems](/array)
 - [String Problems](/string)
 - [LinkedList Problems](/linkedlist)
