@@ -45,4 +45,4 @@ I welcome contributions, suggestions, and feedback from the coding community. If
 
 ## License
 
-This repository is open-source and available under the [MIT License](LICENSE). You are free to use the code for your reference, share it, or modify it as long as you provide proper attribution.
+This repository is open-source and available under the [MIT License]([LICENSE](https://opensource.org/license/mit/). You are free to use the code for your reference, share it, or modify it as long as you provide proper attribution.
