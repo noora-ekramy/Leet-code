@@ -6,6 +6,7 @@ Welcome to my LeetCode solutions repository! This repository contains my solutio
 
 - [Introduction](#introduction)
 - [Problem Categories](#problem-categories)
+- [Solved Prblems](#Solved-Problems)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -29,6 +30,14 @@ I've categorized the problems to help you find specific solutions easily:
 - [Design Problems](/design)
 - [Other Problems](/other)
 
+## Solved Problems
+
+```bash
+# Count the number of problem folders
+NUM_SOLVED=$(ls -l | grep -c '^d')
+echo "Number of solved problems: $NUM_SOLVED"
+```
+
 ## Usage
 
 You can navigate through the problem categories above to find the specific LeetCode problems you're interested in. Inside each problem folder, you will find:
@@ -45,4 +54,4 @@ I welcome contributions, suggestions, and feedback from the coding community. If
 
 ## License
 
-This repository is open-source and available under the [MIT License]([LICENSE](https://opensource.org/license/mit/). You are free to use the code for your reference, share it, or modify it as long as you provide proper attribution.
+This repository is open-source and available under the [MIT License][LICENSE](https://opensource.org/license/mit/). You are free to use the code for your reference, share it, or modify it as long as you provide proper attribution.
