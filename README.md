@@ -6,7 +6,6 @@ Welcome to my LeetCode solutions repository! This repository contains my solutio
 
 - [Introduction](#introduction)
 - [Problem Categories](#problem-categories)
-- [Solved Prblems](#Solved-Problems)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -30,7 +29,7 @@ I've categorized the problems to help you find specific solutions easily:
 - [Design Problems](/design)
 - [Other Problems](/other)
 
-## Solved Problems
+
 
 
 ## Usage
