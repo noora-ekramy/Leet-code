@@ -32,8 +32,6 @@ I've categorized the problems to help you find specific solutions easily:
 
 ## Solved Problems
 
-NUM_SOLVED=$(ls -l | grep -c '^d')
-echo "Number of solved problems: $NUM_SOLVED"
 
 ## Usage
 
