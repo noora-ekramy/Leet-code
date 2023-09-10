@@ -32,11 +32,8 @@ I've categorized the problems to help you find specific solutions easily:
 
 ## Solved Problems
 
-```bash
-# Count the number of problem folders
 NUM_SOLVED=$(ls -l | grep -c '^d')
 echo "Number of solved problems: $NUM_SOLVED"
-```
 
 ## Usage
 
